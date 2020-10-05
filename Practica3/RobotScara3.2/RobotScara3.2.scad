@@ -1,3 +1,11 @@
+/*
+Laboratorio 2-Grupo 3
+Autores:
+    Adrián Díaz Moro          UO265431
+    Raúl López Calvo          UO263918
+    Alejandro León Pereira    UO258774
+*/
+
 y_B = 300;
 x_B = 10;
 z_B = 3;
