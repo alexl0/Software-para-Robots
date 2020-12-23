@@ -1,0 +1,20 @@
+Laboratorio 2 Grupo 3
+	Adrián Díaz Moro UO265431
+	Raúl López Calvo UO263918
+	Alejandro León Pereira UO258774
+
+Tanto el código como el resto de archivos se encuentra en el siguiente repositorio de GitHub
+	https://github.com/alexl0/Software-para-Robots
+
+Los vídeos de todas las prácticas están disponibles en la siguiente carpeta de OneDrive
+	https://unioviedo-my.sharepoint.com/:f:/g/personal/uo258774_uniovi_es/Es8-jqQre79DiWU_Iyjxko4BV0tPQlY6JLgbBidz1dT8sQ?e=C3En8y
+
+Links de los circuitos de la práctica 1
+	Dado1.1			https://www.tinkercad.com/things/ij8idIcU1Sd
+	Memoria1.2		https://www.tinkercad.com/things/6IyIGwoEsP9
+	Zumbador1.3		https://www.tinkercad.com/things/5ambOvmC1gT
+	Semaforo1.4		https://www.tinkercad.com/things/4n9sU86YYKF
+	Semaforo1.5		https://www.tinkercad.com/things/3GuBCR58hFn
+	Discoteca1.6	https://www.tinkercad.com/things/4zUjfs5i8xt
+	Regulador1.7	https://www.tinkercad.com/things/fhM9XKEUnY3
+	Regulador1.8	https://www.tinkercad.com/things/0QZqihFvMiM
